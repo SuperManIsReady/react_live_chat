@@ -1,7 +1,7 @@
 # react_live_chat
 Learning react js
 
-#Server
+# Server
 npm install
 
 npm start
