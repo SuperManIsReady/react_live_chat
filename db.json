@@ -1,0 +1,362 @@
+{
+  "emoji": [
+    {
+      "key": ":angry",
+      "name": "Angry",
+      "fileName": "angry.png"
+    },
+    {
+      "key": ":angry-1",
+      "name": "Angry ",
+      "fileName": "angry-1.png"
+    },
+    {
+      "key": ":bored",
+      "name": "Bore",
+      "fileName": "bored.png"
+    },
+    {
+      "key": ":bored-1",
+      "name": "Bored",
+      "fileName": "bored-1.png"
+    },
+    {
+      "key": ":bored-2",
+      "name": "Bored",
+      "fileName": "bored-2.png"
+    },
+    {
+      "key": ":confused",
+      "name": "Confuse",
+      "fileName": "confused.png"
+    },
+    {
+      "key": ":confused-1",
+      "name": "Confused",
+      "fileName": "confused-1.png"
+    },
+    {
+      "key": ":crying",
+      "name": "Crying",
+      "fileName": "crying.png"
+    },
+    {
+      "key": ":crying-1",
+      "name": "Cry",
+      "fileName": "crying-1.png"
+    },
+    {
+      "key": ":embarrassed",
+      "name": "Embarrassed",
+      "fileName": "embarrassed.png"
+    },
+    {
+      "key": ":emoticons",
+      "name": "Emoticons",
+      "fileName": "emoticons.png"
+    },
+    {
+      "key": ":happy",
+      "name": "Happy",
+      "fileName": "happy.png"
+    },
+    {
+      "key": ":happy-1",
+      "name": "Happy",
+      "fileName": "happy-1.png"
+    },
+    {
+      "key": ":happy-2",
+      "name": "Happy",
+      "fileName": "happy-2.png"
+    },
+    {
+      "key": ":happy-3",
+      "name": "Happy",
+      "fileName": "happy-3.png"
+    },
+    {
+      "key": ":happy-4",
+      "name": "Happy",
+      "fileName": "happy-4.png"
+    },
+    {
+      "key": ":ill",
+      "name": "ill",
+      "fileName": "ill.png"
+    },
+    {
+      "key": ":in-love",
+      "name": "In-love",
+      "fileName": "in-love.png"
+    },
+    {
+      "key": ":kissing",
+      "name": "kissing",
+      "fileName": "kissing.png"
+    },
+    {
+      "key": ":mad",
+      "name": "mad",
+      "fileName": "mad.png"
+    },
+    {
+      "key": ":nerd",
+      "name": "nerd",
+      "fileName": "nerd.png"
+    },
+    {
+      "key": ":ninja",
+      "name": "ninja",
+      "fileName": "ninja.png"
+    },
+    {
+      "key": ":quiet",
+      "name": "quiet",
+      "fileName": "quiet.png"
+    },
+    {
+      "key": ":sad",
+      "name": "sad",
+      "fileName": "sad.png"
+    },
+    {
+      "key": ":secret",
+      "name": "secret",
+      "fileName": "secret.png"
+    },
+    {
+      "key": ":smart",
+      "name": "smart",
+      "fileName": "smart.png"
+    },
+    {
+      "key": ":smile",
+      "name": "smile",
+      "fileName": "smile.png"
+    },
+    {
+      "key": ":smiling",
+      "name": "smiling",
+      "fileName": "smiling.png"
+    },
+    {
+      "key": ":surprised",
+      "name": "surprised",
+      "fileName": "surprised.png"
+    },
+    {
+      "key": ":surprised-1",
+      "name": "surprised",
+      "fileName": "surprised-1.png"
+    },
+    {
+      "key": ":suspicious",
+      "name": "suspicious",
+      "fileName": "suspicious.png"
+    },
+    {
+      "key": ":suspicious-1",
+      "name": "suspicious",
+      "fileName": "suspicious-1.png"
+    },
+    {
+      "key": ":tongue-out",
+      "name": "tongue Out",
+      "fileName": "tongue-out.png"
+    },
+    {
+      "key": ":tongue-out-1",
+      "name": "tongue Out",
+      "fileName": "tongue-out-1.png"
+    },
+    {
+      "key": ":unhappy",
+      "name": "unhappy",
+      "fileName": "unhappy.png"
+    },
+    {
+      "key": ":wink",
+      "name": "wink",
+      "fileName": "wink.png"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Ashik",
+      "username": "ashik",
+      "status": "Available",
+      "password": "123",
+      "image": "https://scontent.fmaa1-1.fna.fbcdn.net/v/t1.0-9/16472812_392562381092382_2620133568589557554_n.jpg?oh=c3d6b1a1510a03a96b239e8086e27350&oe=596616AC"
+    },
+    {
+      "id": 2,
+      "name": "Swetha",
+      "username": "swetha",
+      "status": "Available",
+      "password": "123",
+      "image": "https://scontent.fmaa1-1.fna.fbcdn.net/v/t1.0-9/13627101_513739865497647_2402684748207316308_n.jpg?oh=2efe8c9704a4ae6e76db507166c94502&oe=5950F16D"
+    },
+    {
+      "id": 3,
+      "name": "Robin",
+      "username": "robin",
+      "status": "Invisible",
+      "password": "12345",
+      "image": "https://scontent-sit4-1.xx.fbcdn.net/v/t31.0-8/17016922_694212567427078_5157246882257440666_o.jpg?oh=58b8ef0a98bd454057559f7281084bd1&oe=5988CEE3"
+    },
+    {
+      "id": 4,
+      "name": "Priyanka",
+      "username": "priyanka",
+      "status": "Available",
+      "password": "12345",
+      "image": "https://scontent.fmaa1-1.fna.fbcdn.net/v/t1.0-9/16997883_974757682659223_251480528340324467_n.jpg?oh=5b0003b31bf0d916e377f078893a8f77&oe=599718D0"
+    },
+    {
+      "id": 5,
+      "name": "RajaGopal",
+      "username": "raja",
+      "status": "Invisible",
+      "password": "12345",
+      "image": "https://scontent.fmaa1-1.fna.fbcdn.net/v/t1.0-9/10672257_602609979862354_2423294406943436687_n.jpg?oh=2f6a6b7349f2a31cfdc07a8abd818cba&oe=595DEC08"
+    },
+    {
+      "id": 6,
+      "name": "Sridhar",
+      "username": "sridhar",
+      "status": "Invisible",
+      "password": "12345",
+      "image": "https://scontent-sit4-1.xx.fbcdn.net/v/t1.0-9/18193969_842338055919799_6905671460663790111_n.jpg?oh=1f67e73be7c0a67d0936b87eb16dbda0&oe=5988528C"
+    },
+    {
+      "id": 7,
+      "name": "Vickey",
+      "username": "vickey",
+      "status": "Invisible",
+      "password": "12345",
+      "image": "https://scontent-sit4-1.xx.fbcdn.net/v/t1.0-9/17264554_885787848191153_4601546909075317852_n.jpg?oh=03465a4a4e0edd0c8f8e595523497a2c&oe=5974291E"
+    },
+    {
+      "id": 8,
+      "name": "Kumareshan",
+      "username": "kumareshan",
+      "status": "Invisible",
+      "password": "12345",
+      "image": "https://scontent-sit4-1.xx.fbcdn.net/v/t1.0-9/16003217_10208418523322931_3569857324477166907_n.jpg?oh=00c8c9e33861b48b9399efacd0973e9f&oe=59812D57"
+    },
+    {
+      "id": 9,
+      "name": "Ranjith",
+      "username": "ranjith",
+      "status": "Busy",
+      "password": "123",
+      "image": "https://scontent.fmaa1-1.fna.fbcdn.net/v/t1.0-9/13615432_274962162873893_1009994587063409598_n.jpg?oh=30a63604f790fff4e1a3238e7faa7730&oe=59594CB7"
+    }
+  ],
+  "messages": [
+    {
+      "sender": 1,
+      "recever": 2,
+      "content": "HIII <img src=\"/public/png/angry-1.png\" id=\"4483447479864\" class=\"img-rounded\" alt=\"Cinque Terre\" width=\"23\" height=\"23\">&nbsp;",
+      "id": 1
+    },
+    {
+      "sender": 2,
+      "recever": 1,
+      "content": "<span class=\"MentionsSpan\" contenteditable=\"false\" id=\"10461377518305\" data-userid=\"1\">Ashik</span>&nbsp;",
+      "id": 2
+    },
+    {
+      "sender": 2,
+      "recever": 1,
+      "content": "<img src=\"/public/png/confused.png\" id=\"13450342588470\" class=\"img-rounded\" alt=\"Cinque Terre\" width=\"23\" height=\"23\">&nbsp;",
+      "id": 3
+    },
+    {
+      "sender": 9,
+      "recever": 1,
+      "content": "hiii <span class=\"MentionsSpan\" contenteditable=\"false\" id=\"1494482584198\" data-userid=\"1\">Ashik</span>&nbsp;<img src=\"/public/png/embarrassed.png\" id=\"0\" class=\"img-rounded\" alt=\"Cinque Terre\" width=\"23\" height=\"23\">&nbsp;",
+      "id": 4
+    },
+    {
+      "sender": 3,
+      "recever": 1,
+      "content": "hii <span class=\"MentionsSpan\" contenteditable=\"false\" id=\"4483448147982\" data-userid=\"1\">Ashik</span>&nbsp;<img src=\"/public/png/bored-2.png\" id=\"10461379033882\" class=\"img-rounded\" alt=\"Cinque Terre\" width=\"23\" height=\"23\">&nbsp;",
+      "id": 5
+    },
+    {
+      "sender": 1,
+      "recever": 2,
+      "content": "hiii <span class=\"MentionsSpan\" contenteditable=\"false\" id=\"1494494456147\" data-userid=\"2\">Swetha</span>&nbsp;",
+      "id": 6
+    },
+    {
+      "sender": 1,
+      "recever": 2,
+      "content": "<img src=\"/public/png/happy.png\" id=\"5977977852268\" class=\"img-rounded\" alt=\"Cinque Terre\" width=\"23\" height=\"23\">&nbsp;",
+      "id": 7
+    },
+    {
+      "sender": 1,
+      "recever": 2,
+      "content": "<img src=\"/public/png/angry-1.png\" id=\"2988988931110\" class=\"img-rounded\" alt=\"Cinque Terre\" width=\"23\" height=\"23\">&nbsp;<img src=\"/public/png/angry.png\" id=\"4483483402500\" class=\"img-rounded\" alt=\"Cinque Terre\" width=\"23\" height=\"23\">&nbsp;<img src=\"/public/png/angry.png\" id=\"5977977875624\" class=\"img-rounded\" alt=\"Cinque Terre\" width=\"23\" height=\"23\">&nbsp;<img src=\"/public/png/angry.png\" id=\"11955955759584\" class=\"img-rounded\" alt=\"Cinque Terre\" width=\"23\" height=\"23\">&nbsp;<img src=\"/public/png/angry.png\" id=\"8966966826210\" class=\"img-rounded\" alt=\"Cinque Terre\" width=\"23\" height=\"23\">&nbsp;",
+      "id": 8
+    },
+    {
+      "sender": 1,
+      "recever": 2,
+      "content": "hii <span class=\"MentionsSpan\" contenteditable=\"false\" id=\"4483483745793\" data-mensionuserid=\"1\">Ashik</span>&nbsp;",
+      "id": 9
+    },
+    {
+      "sender": 1,
+      "recever": 2,
+      "content": "h",
+      "id": 10
+    },
+    {
+      "sender": 1,
+      "recever": 2,
+      "content": "hello",
+      "id": 11
+    },
+    {
+      "sender": 2,
+      "recever": 1,
+      "content": "<img src=\"/public/png/angry-1.png\" id=\"0\" class=\"img-rounded\" alt=\"Cinque Terre\" width=\"23\" height=\"23\">&nbsp;",
+      "id": 12
+    },
+    {
+      "sender": 2,
+      "recever": 1,
+      "content": "<span class=\"MentionsSpan\" contenteditable=\"false\" id=\"0\" data-mensionuserid=\"2\">Swetha</span>&nbsp;",
+      "id": 13
+    },
+    {
+      "sender": 1,
+      "recever": 3,
+      "content": "<span class=\"MentionsSpan\" contenteditable=\"false\" id=\"1494499952129\" data-mensionuserid=\"2\">Swetha</span>&nbsp;",
+      "id": 14
+    },
+    {
+      "sender": 2,
+      "recever": 1,
+      "content": "<span class=\"MentionsSpan\" id=\"0\">/tickets</span>&nbsp;guuu",
+      "id": 15
+    },
+    {
+      "sender": 1,
+      "recever": 2,
+      "content": "HIIII",
+      "id": 16
+    },
+    {
+      "sender": 1,
+      "recever": 2,
+      "content": "<span class=\"MentionsSpan\" id=\"4483515468570\">/users</span>&nbsp;ashik",
+      "id": 17
+    }
+  ]
+}
